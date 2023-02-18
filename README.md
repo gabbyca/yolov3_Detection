@@ -1,7 +1,7 @@
 # yolov3_Detection
 
 1. Clone repository in IDE
-2. Download yolov3.weights and drag into workspace (sent in email)
+2. Download yolov3.weights and drag into workspace
 3. Create a folder in workspace titled 'videoStorageOpencv'
 4. Install requirements.txt
 5. Open terminal and cd into file in which repo was cloned in
